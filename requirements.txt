@@ -1,0 +1,11 @@
+# Core Inference & Simulator (Zero External Dependencies)
+# The core policy and evaluation engine use 100% Python Standard Library (Python >= 3.10)
+# for deterministic, ultra-fast, and completely offline execution.
+
+# Optional: Development, Scientific Analysis, and Visualization
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+networkx>=3.0
+pytest>=7.3.0
